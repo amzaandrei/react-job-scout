@@ -1,0 +1,24 @@
+Andrei Amza
+AI Engineer
+andrei.amza177@gmail.com
+
+EXPERIENCE
+
+AI Engineer (Freelance) | 2024 – present
+- Built autonomous agents using LangGraph, LangChain, and Anthropic SDK
+- Implemented RAG pipelines with FAISS vector stores and local embeddings
+- Designed tool-use loops with ReAct and agentic reasoning patterns
+
+SKILLS
+
+Languages:     Python, TypeScript
+AI/ML:         LangChain, LangGraph, Anthropic SDK, OpenAI API, FAISS
+Frameworks:    Next.js, FastAPI, tRPC
+Infrastructure: Docker, Vercel, PostgreSQL
+
+PROJECTS
+
+react-job-scout   ReAct agent for autonomous job search and matching
+research-agent    LangGraph web research agent with multi-step planning
+repo-qa           RAG-based Q&A over local git repositories
+strava-coach      AI training coach with Strava integration
